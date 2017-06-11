@@ -1,0 +1,24 @@
+{
+  "name": "gulps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulpServer": "gulp server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-htmlmin": "*",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.3.0",
+    "gulp-minify-css": "*",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-sass": "*",
+    "gulp-uglify": "*"
+  }
+}
